@@ -1,0 +1,6 @@
+{
+  "appId": "com.openai.fishing3d",
+  "appName": "Рыбалка 3D",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
